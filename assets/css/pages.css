@@ -615,62 +615,100 @@ body, #container-wrap { background:#532e26; }
 	background:#532e26;
 }
 
+@keyframes flyinfrombottom-22754 {
+	0% {
+		transform:translate(-1px,233px);
+		opacity:0;
+	}
+	100% {
+		transform:translate(0px,0px);
+		opacity:1;
+	}
+}
+@-webkit-keyframes flyinfrombottom-22754 {
+	0% {
+		-webkit-transform:translate(-1px,233px);
+		opacity:0;
+	}
+	100% {
+		-webkit-transform:translate(0px,0px);
+		opacity:1;
+	}
+}
 #item17223 {
 	width:551px !important;
 	height:37px !important;
-	left:162px !important;
-	top:243px !important;
 }
 
 #item17231 {
 	width:891px !important;
 	height:30px !important;
-	left:164px !important;
-	top:328px !important;
+	left:2px !important;
+	top:85px !important;
 }
 
 #item17243 {
 	width:851px !important;
 	height:38px !important;
-	left:164px !important;
-	top:487px !important;
+	left:2px !important;
+	top:244px !important;
 }
 
 #item17237 {
 	width:1183px !important;
 	height:38px !important;
-	left:164px !important;
-	top:405px !important;
+	left:2px !important;
+	top:163px !important;
 }
 
 #item17249 {
 	width:938px !important;
 	height:38px !important;
-	left:164px !important;
-	top:568px !important;
+	left:2px !important;
+	top:326px !important;
 }
 
 #item17356 {
 	width:1080px !important;
 	height:38px !important;
-	left:165px !important;
-	top:732px !important;
+	left:3px !important;
+	top:489px !important;
 }
 
 #item17348 {
 	width:1150px !important;
 	height:38px !important;
-	left:164px !important;
-	top:650px !important;
+	left:2px !important;
+	top:407px !important;
 }
 
 #item22556 {
 	width:522px !important;
 	height:30px !important;
-	left:163px !important;
-	top:817px !important;
+	left:2px !important;
+	top:574px !important;
 }
 
+@keyframes flyinfrombottom-14589 {
+	0% {
+		transform:translate(-1px,233px);
+		opacity:0;
+	}
+	100% {
+		transform:translate(0px,0px);
+		opacity:0.45;
+	}
+}
+@-webkit-keyframes flyinfrombottom-14589 {
+	0% {
+		-webkit-transform:translate(-1px,233px);
+		opacity:0;
+	}
+	100% {
+		-webkit-transform:translate(0px,0px);
+		opacity:0.45;
+	}
+}
 #item794 {
 	width:1950px !important;
 	height:1110px !important;
@@ -860,6 +898,14 @@ body, #container-wrap { background:#532e26; }
 	background:#261b19;
 }
 
+#item18090 {
+	width:1597px !important;
+	height:544px !important;
+	left:162px !important;
+	top:2649px !important;
+	border:solid 3px #9d5b37;
+}
+
 #item3323 {
 	width:1597px !important;
 	height:544px !important;
@@ -880,14 +926,6 @@ body, #container-wrap { background:#532e26; }
 	height:544px !important;
 	left:162px !important;
 	top:2065px !important;
-	border:solid 3px #9d5b37;
-}
-
-#item18090 {
-	width:1597px !important;
-	height:544px !important;
-	left:162px !important;
-	top:2649px !important;
 	border:solid 3px #9d5b37;
 }
 
@@ -954,17 +992,101 @@ body, #container-wrap { background:#532e26; }
 #item7676 {
 	width:1950px !important;
 	height:1501px !important;
-	left:-8px !important;
+	left:-15px !important;
 	top:-6px !important;
 	background:#ecd6c6;
 }
 
-@keyframes fadein-19470 {
+@keyframes flyinfromleft-7677 {
+	0% {
+		transform:translate(-307px,0px);
+		opacity:0;
+	}
+	100% {
+		transform:translate(0px,0px);
+		opacity:1;
+	}
+}
+@-webkit-keyframes flyinfromleft-7677 {
+	0% {
+		-webkit-transform:translate(-307px,0px);
+		opacity:0;
+	}
+	100% {
+		-webkit-transform:translate(0px,0px);
+		opacity:1;
+	}
+}
+@keyframes flyinfrombottom-12886 {
+	0% {
+		transform:translate(-1px,233px);
+		opacity:0;
+	}
+	100% {
+		transform:translate(0px,0px);
+		opacity:1;
+	}
+}
+@-webkit-keyframes flyinfrombottom-12886 {
+	0% {
+		-webkit-transform:translate(-1px,233px);
+		opacity:0;
+	}
+	100% {
+		-webkit-transform:translate(0px,0px);
+		opacity:1;
+	}
+}
+@keyframes flyinfrombottom-13308 {
+	0% {
+		transform:translate(-1px,233px);
+		opacity:0;
+	}
+	100% {
+		transform:translate(0px,0px);
+		opacity:1;
+	}
+}
+@-webkit-keyframes flyinfrombottom-13308 {
+	0% {
+		-webkit-transform:translate(-1px,233px);
+		opacity:0;
+	}
+	100% {
+		-webkit-transform:translate(0px,0px);
+		opacity:1;
+	}
+}
+@keyframes flyinfrombottom-19446 {
+	0% {
+		transform:translate(-1px,233px);
+		opacity:0;
+	}
+	100% {
+		transform:translate(0px,0px);
+		opacity:1;
+	}
+}
+@-webkit-keyframes flyinfrombottom-19446 {
+	0% {
+		-webkit-transform:translate(-1px,233px);
+		opacity:0;
+	}
+	100% {
+		-webkit-transform:translate(0px,0px);
+		opacity:1;
+	}
+}
+@keyframes appear-19470 {
 	0% {opacity:0;}
+	57% {opacity:0;}
+	64% {opacity:1;}
 	100% {opacity:1;}
 }
-@-webkit-keyframes fadein-19470 {
+@-webkit-keyframes appear-19470 {
 	0% {opacity:0;}
+	57% {opacity:0;}
+	64% {opacity:1;}
 	100% {opacity:1;}
 }
 #item22025 {
