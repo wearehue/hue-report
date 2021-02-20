@@ -1,0 +1,267 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Freelance/hue/Final Artwork/021821/State of Inequity — hue Folder/Document fonts/AdobeFnt22.lst
+FileLength:6478
+FileModTime:635439028
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FontAwesome5Free-Solid
+FamilyName:Font Awesome 5 Free
+StyleName:Solid
+MenuName:Font Awesome 5 Free Solid
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Font Awesome 5 Free Solid
+WritingScript:Roman
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Freelance/hue/Final Artwork/021821/State of Inequity — hue Folder/Document fonts/Font Awesome 5 Free-Solid-900.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:524984
+FileModTime:571699506
+NameArray:0,Mac,18,Font Awesome 5 Free Solid
+NameArray:0,Mac,4,Font Awesome 5 Free Solid
+NameArray:0,Win,1,Font Awesome 5 Free Solid
+NameArray:0,Win,16,Font Awesome 5 Free
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ChartwellPies
+FamilyName:Chartwell
+StyleName:Pies
+MenuName:ChartwellPies
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:ChartwellPies
+WritingScript:Roman
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Freelance/hue/Final Artwork/021821/State of Inequity — hue Folder/Document fonts/FontFont - ChartwellPies.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:576020
+FileModTime:628032974
+NameArray:0,Mac,4,ChartwellPies
+NameArray:0,Win,1,ChartwellPies
+NameArray:0,Win,16,Chartwell
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-Bold
+FamilyName:Montserrat
+StyleName:Bold
+MenuName:Montserrat
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Montserrat Bold
+WritingScript:Roman
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Freelance/hue/Final Artwork/021821/State of Inequity — hue Folder/Document fonts/Montserrat-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:235192
+FileModTime:537166660
+NameArray:0,Mac,4,Montserrat Bold
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-ExtraBold
+FamilyName:Montserrat
+StyleName:ExtraBold
+MenuName:Montserrat ExtraBold
+StyleBits:0
+WeightClass:800
+WidthClass:5
+AngleClass:0
+FullName:Montserrat ExtraBold
+WritingScript:Roman
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Freelance/hue/Final Artwork/021821/State of Inequity — hue Folder/Document fonts/Montserrat-ExtraBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:234432
+FileModTime:537166660
+NameArray:0,Mac,4,Montserrat ExtraBold
+NameArray:0,Win,1,Montserrat ExtraBold
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-ExtraLight
+FamilyName:Montserrat
+StyleName:ExtraLight
+MenuName:Montserrat ExtraLight
+StyleBits:0
+WeightClass:275
+WidthClass:5
+AngleClass:0
+FullName:Montserrat ExtraLight
+WritingScript:Roman
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Freelance/hue/Final Artwork/021821/State of Inequity — hue Folder/Document fonts/Montserrat-ExtraLight.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:226772
+FileModTime:537166660
+NameArray:0,Mac,4,Montserrat ExtraLight
+NameArray:0,Win,1,Montserrat ExtraLight
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-Italic
+FamilyName:Montserrat
+StyleName:Italic
+MenuName:Montserrat
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Montserrat Italic
+WritingScript:Roman
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Freelance/hue/Final Artwork/021821/State of Inequity — hue Folder/Document fonts/Montserrat-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:237828
+FileModTime:537166660
+NameArray:0,Mac,4,Montserrat Italic
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-Light
+FamilyName:Montserrat
+StyleName:Light
+MenuName:Montserrat Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Montserrat Light
+WritingScript:Roman
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Freelance/hue/Final Artwork/021821/State of Inequity — hue Folder/Document fonts/Montserrat-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:228068
+FileModTime:537166660
+NameArray:0,Mac,4,Montserrat Light
+NameArray:0,Win,1,Montserrat Light
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-Medium
+FamilyName:Montserrat
+StyleName:Medium
+MenuName:Montserrat Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Montserrat Medium
+WritingScript:Roman
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Freelance/hue/Final Artwork/021821/State of Inequity — hue Folder/Document fonts/Montserrat-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:230356
+FileModTime:537166660
+NameArray:0,Mac,4,Montserrat Medium
+NameArray:0,Win,1,Montserrat Medium
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-Regular
+FamilyName:Montserrat
+StyleName:Regular
+MenuName:Montserrat
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Montserrat Regular
+WritingScript:Roman
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Freelance/hue/Final Artwork/021821/State of Inequity — hue Folder/Document fonts/Montserrat-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:228620
+FileModTime:537166660
+NameArray:0,Mac,4,Montserrat Regular
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-SemiBold
+FamilyName:Montserrat
+StyleName:SemiBold
+MenuName:Montserrat SemiBold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Montserrat SemiBold
+WritingScript:Roman
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Freelance/hue/Final Artwork/021821/State of Inequity — hue Folder/Document fonts/Montserrat-SemiBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:234056
+FileModTime:537166660
+NameArray:0,Mac,4,Montserrat SemiBold
+NameArray:0,Win,1,Montserrat SemiBold
+NameArray:0,Win,16,Montserrat
+%EndFont
+
