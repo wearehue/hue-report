@@ -4,9 +4,9 @@
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Volumes/GoogleDrive/My Drive/Freelance/hue/Final Artwork/021821/State of Inequity — hue Folder/Document fonts/AdobeFnt22.lst
-FileLength:6478
-FileModTime:635439028
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Freelance/hue/Final Artwork/022221/State of Inequity — hue Folder/Document fonts/AdobeFnt22.lst
+FileLength:5881
+FileModTime:635720550
 %EndFont
 
 %BeginFont
@@ -22,7 +22,7 @@ WidthClass:5
 AngleClass:0
 FullName:Font Awesome 5 Free Solid
 WritingScript:Roman
-OutlineFileName:/Volumes/GoogleDrive/My Drive/Freelance/hue/Final Artwork/021821/State of Inequity — hue Folder/Document fonts/Font Awesome 5 Free-Solid-900.otf
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Freelance/hue/Final Artwork/022221/State of Inequity — hue Folder/Document fonts/Font Awesome 5 Free-Solid-900.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -38,30 +38,6 @@ NameArray:0,Win,16,Font Awesome 5 Free
 
 %BeginFont
 Handler:DirectoryHandler
-FontType:TrueType
-FontName:ChartwellPies
-FamilyName:Chartwell
-StyleName:Pies
-MenuName:ChartwellPies
-StyleBits:0
-WeightClass:400
-WidthClass:5
-AngleClass:0
-FullName:ChartwellPies
-WritingScript:Roman
-OutlineFileName:/Volumes/GoogleDrive/My Drive/Freelance/hue/Final Artwork/021821/State of Inequity — hue Folder/Document fonts/FontFont - ChartwellPies.ttf
-DataFormat:sfntData
-hasSVG:no
-VariableFontType:NonVariableFont
-FileLength:576020
-FileModTime:628032974
-NameArray:0,Mac,4,ChartwellPies
-NameArray:0,Win,1,ChartwellPies
-NameArray:0,Win,16,Chartwell
-%EndFont
-
-%BeginFont
-Handler:DirectoryHandler
 FontType:Type1
 FontName:Montserrat-Bold
 FamilyName:Montserrat
@@ -73,7 +49,7 @@ WidthClass:5
 AngleClass:0
 FullName:Montserrat Bold
 WritingScript:Roman
-OutlineFileName:/Volumes/GoogleDrive/My Drive/Freelance/hue/Final Artwork/021821/State of Inequity — hue Folder/Document fonts/Montserrat-Bold.otf
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Freelance/hue/Final Artwork/022221/State of Inequity — hue Folder/Document fonts/Montserrat-Bold.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -98,7 +74,7 @@ WidthClass:5
 AngleClass:0
 FullName:Montserrat ExtraBold
 WritingScript:Roman
-OutlineFileName:/Volumes/GoogleDrive/My Drive/Freelance/hue/Final Artwork/021821/State of Inequity — hue Folder/Document fonts/Montserrat-ExtraBold.otf
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Freelance/hue/Final Artwork/022221/State of Inequity — hue Folder/Document fonts/Montserrat-ExtraBold.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -124,7 +100,7 @@ WidthClass:5
 AngleClass:0
 FullName:Montserrat ExtraLight
 WritingScript:Roman
-OutlineFileName:/Volumes/GoogleDrive/My Drive/Freelance/hue/Final Artwork/021821/State of Inequity — hue Folder/Document fonts/Montserrat-ExtraLight.otf
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Freelance/hue/Final Artwork/022221/State of Inequity — hue Folder/Document fonts/Montserrat-ExtraLight.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -150,7 +126,7 @@ WidthClass:5
 AngleClass:1
 FullName:Montserrat Italic
 WritingScript:Roman
-OutlineFileName:/Volumes/GoogleDrive/My Drive/Freelance/hue/Final Artwork/021821/State of Inequity — hue Folder/Document fonts/Montserrat-Italic.otf
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Freelance/hue/Final Artwork/022221/State of Inequity — hue Folder/Document fonts/Montserrat-Italic.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -175,7 +151,7 @@ WidthClass:5
 AngleClass:0
 FullName:Montserrat Light
 WritingScript:Roman
-OutlineFileName:/Volumes/GoogleDrive/My Drive/Freelance/hue/Final Artwork/021821/State of Inequity — hue Folder/Document fonts/Montserrat-Light.otf
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Freelance/hue/Final Artwork/022221/State of Inequity — hue Folder/Document fonts/Montserrat-Light.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -201,7 +177,7 @@ WidthClass:5
 AngleClass:0
 FullName:Montserrat Medium
 WritingScript:Roman
-OutlineFileName:/Volumes/GoogleDrive/My Drive/Freelance/hue/Final Artwork/021821/State of Inequity — hue Folder/Document fonts/Montserrat-Medium.otf
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Freelance/hue/Final Artwork/022221/State of Inequity — hue Folder/Document fonts/Montserrat-Medium.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -227,7 +203,7 @@ WidthClass:5
 AngleClass:0
 FullName:Montserrat Regular
 WritingScript:Roman
-OutlineFileName:/Volumes/GoogleDrive/My Drive/Freelance/hue/Final Artwork/021821/State of Inequity — hue Folder/Document fonts/Montserrat-Regular.otf
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Freelance/hue/Final Artwork/022221/State of Inequity — hue Folder/Document fonts/Montserrat-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -252,7 +228,7 @@ WidthClass:5
 AngleClass:0
 FullName:Montserrat SemiBold
 WritingScript:Roman
-OutlineFileName:/Volumes/GoogleDrive/My Drive/Freelance/hue/Final Artwork/021821/State of Inequity — hue Folder/Document fonts/Montserrat-SemiBold.otf
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Freelance/hue/Final Artwork/022221/State of Inequity — hue Folder/Document fonts/Montserrat-SemiBold.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
