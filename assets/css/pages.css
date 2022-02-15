@@ -420,7 +420,7 @@ ul.thumbs > li img { box-shadow:0 0 4px rgba(0, 0, 0, 0.5); }
 body, #container-wrap { background:#261b19; }
 :-webkit-full-screen { background:#261b19; }
 #loadIndicator span:after { padding-left:1ex; content:'loading content...'; }
-.page-scale-wrap { width:1920px; height:1080px; background: transparent !important; }
+.page-scale-wrap { width:1920px; height:1080px; background: #261b19 !important; }
 .paper-vertical { width:1920px; height:100%; }
 .paper-horizontal { width:21230px; height:1092px; }
 @media all and (max-height:1080px) {
@@ -842,90 +842,75 @@ body, #container-wrap { background:#261b19; }
 	top:990px !important;
 }
 
-@keyframes fadein-38674 {
-	0% {opacity:0;}
-	100% {opacity:1;}
-}
-@-webkit-keyframes fadein-38674 {
-	0% {opacity:0;}
-	100% {opacity:1;}
-}
 #item38675 {
 	width:82px !important;
 	height:666px !important;
+	left:-10px !important;
+	top:131px !important;
 	background:#261b19;
 }
 
-#item38677 {
+#item39292 {
 	width:28px !important;
 	height:30px !important;
-	left:32px !important;
-	top:159px !important;
+	left:22px !important;
+	top:290px !important;
 }
 
-#item38728 {
+#item39293 {
 	width:28px !important;
 	height:30px !important;
-	left:32px !important;
-	top:221px !important;
+	left:22px !important;
+	top:352px !important;
 }
 
-#item38779 {
+#item39294 {
 	width:28px !important;
 	height:30px !important;
-	left:32px !important;
-	top:283px !important;
+	left:22px !important;
+	top:414px !important;
 }
 
-#item38829 {
+#item39295 {
 	width:28px !important;
 	height:30px !important;
-	left:32px !important;
-	top:345px !important;
+	left:22px !important;
+	top:475px !important;
 }
 
-#item38879 {
+#item39296 {
 	width:28px !important;
 	height:30px !important;
-	left:32px !important;
-	top:407px !important;
+	left:22px !important;
+	top:537px !important;
 }
 
-#item38929 {
+#item39297 {
 	width:28px !important;
 	height:30px !important;
-	left:32px !important;
-	top:469px !important;
+	left:22px !important;
+	top:599px !important;
 }
 
-#item38979 {
+#item39298 {
 	width:28px !important;
 	height:30px !important;
-	left:32px !important;
-	top:530px !important;
+	left:22px !important;
+	top:661px !important;
 }
 
-#item39030 {
+#item39299 {
 	width:28px !important;
 	height:30px !important;
-	left:32px !important;
-	top:592px !important;
+	left:22px !important;
+	top:723px !important;
 }
 
 #item39080 {
 	width:37px !important;
 	height:15px !important;
-	left:28px !important;
-	top:36px !important;
-}
-
-#item38674.fixed-pos-elem {
-	height:666px !important;
-	width:82px !important;
-	top:131px !important;
-	left:-10px !important;
-	-webkit-transform-origin:0 0 0;
-	transform-origin:0 0 0;
+	left:18px !important;
+	top:166px !important;
 }
 
 #item1672 {
