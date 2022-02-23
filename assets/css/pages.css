@@ -468,6 +468,14 @@ body, #container-wrap { background:transparent; }
 	-webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
 }
+#item22796 {
+	width:1970px !important;
+	height:85px !important;
+	left:-25px !important;
+	top:-25px !important;
+	background:#514847;
+}
+
 @keyframes fadein-327 {
 	0% {opacity:0;}
 	100% {opacity:1;}
@@ -1480,6 +1488,26 @@ body, #container-wrap { background:transparent; }
 	}
 }
 @-webkit-keyframes flyinfrombottom-22574 {
+	0% {
+		-webkit-transform:translate(-1px,233px);
+		opacity:0;
+	}
+	100% {
+		-webkit-transform:translate(0px,0px);
+		opacity:1;
+	}
+}
+@keyframes flyinfrombottom-22751 {
+	0% {
+		transform:translate(-1px,233px);
+		opacity:0;
+	}
+	100% {
+		transform:translate(0px,0px);
+		opacity:1;
+	}
+}
+@-webkit-keyframes flyinfrombottom-22751 {
 	0% {
 		-webkit-transform:translate(-1px,233px);
 		opacity:0;
