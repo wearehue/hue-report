@@ -1477,6 +1477,14 @@ body, #container-wrap { background:transparent; }
 	0% {opacity:0;}
 	100% {opacity:1;}
 }
+@keyframes fadein-22571 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+@-webkit-keyframes fadein-22571 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
 @keyframes flyinfrombottom-22574 {
 	0% {
 		transform:translate(-1px,233px);
