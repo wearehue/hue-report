@@ -1095,7 +1095,7 @@ $.fn.redraw = function(){
 
 (function(){
 	var trackPageViews=false, trackMediaPlays=false, usePageBmk=false, gaAccountID = 'G-WH846WPPCZ';
-	trackButtons=false, trackSocial=false, trackPDFDownloads=false, trackLinkClicks=false;
+	trackButtons=false, trackSocial=false, trackPDFDownloads=true, trackLinkClicks=true;
 	if(!useTracker || navigator.onLine === !1) return;
 	window.dataLayer = window.dataLayer || [];
 	function _gtag(){dataLayer.push(arguments);}
